@@ -1,0 +1,6 @@
+.vagrant/
+Vagrantfile
+.env/
+.git/
+www/phpmyadmin
+www/uploads/
